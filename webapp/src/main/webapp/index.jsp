@@ -1,4 +1,4 @@
-<h1> double verifying.....checking ....yes successfully done push and pull using the ansible..........why unstable ...............succeed in deploying in the docker.................be happy ,all is well manjunat Hello, Welcome to DevOps Project !!   </h1>
+<h1>finally its working correctly......... double verifying.....checking ....yes successfully done push and pull using the ansible..........why unstable ...............succeed in deploying in the docker.................be happy ,all is well manjunat Hello, Welcome to DevOps Project !!   </h1>
 <h2> Deploying on a Tomcat Application Sever using Jenkins </h2>
 <h2> Glad to see you here </h2>
 <h2> editing code to see the changes and enabled poll scm </h2>
